@@ -3,12 +3,15 @@
 __pycache__/
 *.pyc
 
-# Virtual env
-.venv/
+# Virtual envs (yours is named .PDF_answer_venv)
+.PDF_answer_venv/
+venv/
+env/
+*_venv/
+.*_venv/
+.PDF_answer_venv/
 
-# Local data
+# Local data (don’t upload private PDFs or index)
 data/index/
 data/docs/*
-
-# Allow placeholder
 !data/docs/.gitkeep
