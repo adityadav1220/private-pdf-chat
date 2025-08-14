@@ -1,0 +1,14 @@
+# macOS & Python
+.DS_Store
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Local data
+data/index/
+data/docs/*
+
+# Allow placeholder
+!data/docs/.gitkeep
