@@ -5,3 +5,9 @@ langchain-chroma>=0.1.0
 chromadb>=0.5.3
 pydantic>=2.0.0
 pymupdf
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+rank-bm25
